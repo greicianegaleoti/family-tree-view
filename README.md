@@ -2,10 +2,10 @@
 
 A web application that displays key members of the Corleone Family, using data from a Node.js API hosted on Render.
 
-🔗 Live project:
+Live project:
 [https://mafia-family-tree.netlify.app/](https://mafia-family-tree.netlify.app/)
 
-📡 API used:
+API used:
 [https://family-tree-api-86q4.onrender.com/members](https://family-tree-api-86q4.onrender.com/members)
 
 ---
