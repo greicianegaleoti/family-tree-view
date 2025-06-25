@@ -55,8 +55,8 @@ git clone https://github.com/your-username/family-tree-view.git
 ## Author
 
 Greiciane Galeoti
-Newsletter: Tech Transitions — Women Power
-Subscribe on LinkedIn [https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7162966415669501952](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7162966415669501952)
+Newsletter: Tech Transitions — Women Power.
+Subscribe on LinkedIn [https://www.linkedin.com/Tech-Transitions](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7162966415669501952)
 
 LinkedIn: [https://www.linkedin.com/in/greiciane-galeoti/](https://www.linkedin.com/in/greiciane-galeoti/)
 
