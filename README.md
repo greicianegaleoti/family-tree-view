@@ -1,68 +1,62 @@
-Front-end do projeto Family Tree View — uma aplicação web que consome a API Family Tree hospedada no Render e exibe informações sobre os membros da Família Corleone, com animações e design responsivo.
-
-URL do front-end: https://mafia-family-tree.netlify.app/
-API usada: https://family-tree-api-86q4.onrender.com/members
-
-—
-
-README.md completo:
-
 # Family Tree View
 
-Uma aplicação web que exibe os membros da Família Corleone, consumindo os dados de uma API Node.js hospedada no Render.
+A web application that displays key members of the Corleone Family, using data from a Node.js API hosted on Render.
 
-🔗 Acesse online:
-https://mafia-family-tree.netlify.app/
+🔗 Live project:
+[https://mafia-family-tree.netlify.app/](https://mafia-family-tree.netlify.app/)
 
-📡 API usada:
-https://family-tree-api-86q4.onrender.com/members
+📡 API used:
+[https://family-tree-api-86q4.onrender.com/members](https://family-tree-api-86q4.onrender.com/members)
 
 ---
 
-## Tecnologias usadas
+## Technologies
 
 * HTML5
-* CSS3 (com animações)
-* JavaScript Vanilla (Fetch API)
-* Deploy: Netlify (Front-end) + Render (API back-end)
+* CSS3 (with animations)
+* Vanilla JavaScript (Fetch API)
+* Deployment: Netlify (Frontend) + Render (Backend API)
 
 ---
 
-## Funcionalidades
+## Features
 
-* Consumo de API externa
-* Exibição dinâmica de cards com membros da família
-* Layout responsivo para desktop e mobile
-* Animações de entrada em cada card
+* Dynamic data fetching from external API
+* Responsive layout for desktop and mobile
+* Animated card-based display of each member
+* Fully static frontend deployed via Netlify
 
 ---
 
-## Como visualizar localmente (opcional)
+## Run locally (optional)
 
-1. Clone o repositório:
+1. Clone the repository:
 
 ```bash
-git clone https://github.com/seu-usuario/family-tree-view.git
+git clone https://github.com/your-username/family-tree-view.git
 ```
 
-2. Abra o index.html com Live Server ou apenas clicando duas vezes no arquivo.
+2. Open index.html using Live Server or directly in your browser.
 
-⚠️ Atenção: Para funcionar localmente, a API precisa estar online no Render.
-
----
-
-## Melhorias futuras (ideias):
-
-* Adicionar filtros por localização ou cargo
-* Adicionar modal com detalhes de cada membro
-* Integração com APIs públicas de filmes (ex: OMDb)
-* Adicionar busca por nome
-* Melhorias de UI/UX com frameworks como Tailwind ou Bootstrap
+⚠️ Note: The API must be online (via Render) for the cards to appear correctly.
 
 ---
 
-## Autora
+## Future improvements (ideas)
+
+* Filter by role or location
+* Member detail modal on click
+* Integration with public film APIs (e.g., OMDb)
+* Search by name
+* UI/UX enhancements using Tailwind or Bootstrap
+
+---
+
+## Author
 
 Greiciane Galeoti
 Newsletter: Tech Transitions — Women Power
-LinkedIn: https://www.linkedin.com/in/greiciane-galeoti/
+Subscribe on LinkedIn [https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7162966415669501952]
+
+LinkedIn: (https://www.linkedin.com/in/greiciane-galeoti/)
+
